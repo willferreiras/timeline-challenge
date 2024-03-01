@@ -134,6 +134,7 @@ input {
   box-shadow: 0 0 8px rgba(0, 0, 0, 0.2);
   border-radius: 8px;
   color: white;
+  cursor: pointer;
 }
 
 .event-title {
